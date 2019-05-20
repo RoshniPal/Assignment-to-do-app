@@ -1,0 +1,11 @@
+.brand-logo
+{
+	font-family: 'Lobster', cursive;
+	margin-left: 20px;
+}
+
+/* label underline focus color */
+    .input-field input:focus, .materialize-textarea:focus:not([readonly]) {
+     border-bottom: 2px solid #3f51b5  !important;
+     box-shadow: 0 0 0 0 #000  !important;
+    }
